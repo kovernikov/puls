@@ -30,6 +30,10 @@
   ],
   "dependencies": {
     "def": "0.0.8",
-    "dif": "0.0.6"
+    "dif": "0.0.6",
+     "gh-pages": "^3.2.2",
+    "jquery": "^3.5.1",
+    "jquery-ui-dist": "^1.12.1",
+    "slick-carousel": "^1.8.1"
   }
 }
